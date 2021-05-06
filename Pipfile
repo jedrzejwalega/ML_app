@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 torch = "*"
 flask = "*"
+opencv-python = "*"
+numpy = "*"
+torchvision = "*"
 
 [dev-packages]
 
